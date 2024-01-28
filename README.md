@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img alt="GitHub release (latest by date including pre-releases" src="https://img.shields.io/github/v/release/tbakerx/react-resume-template?include_prereleases">
+<img alt="GitHub release (latest by date including pre-releases" src="https://img.shields.io/github/v/release/randallgann/react-suggestions-template?include_prereleases">
 
 <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/tbakerx/react-resume-template?style=flat">
 
